@@ -1,6 +1,8 @@
 # LearningNetwork
 
 
+CCNA Personal Projects
+
 | Order | Topic                           | Time commitment |
 |-------|---------------------------------|-------------------|
 | [0](phase0/README.md)     | Start from zero tech experience  | optional 
