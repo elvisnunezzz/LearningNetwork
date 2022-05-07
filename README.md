@@ -6,9 +6,9 @@
 
 # Projects
 
-Each phase has a list of projects that we recommend you complete. Here is a list of more. 
+Each phase has a list of projects for CCNA. Here is a list of more. 
 
-## AWS Projects
+## CCNA Projects
 
 Title | Description | Author 
 ------|-------------|--------|
